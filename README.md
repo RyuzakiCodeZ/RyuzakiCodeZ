@@ -1,16 +1,19 @@
-### Hi there 👋
+from GitHub.RyuzakiCodeZ import Readme
 
-<!--
-**RyuzakiCodeZ/RyuzakiCodeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class RyuzakiCodeZ(Readme):
 
-Here are some ideas to get you started:
+    "https://gitHub.com/RyuzakiCodeZ/RyuzakiCodeZ/README.md"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+
+      self.name = "RyuzakiCodeZ"
+
+      self.mail = "ryuzakiixd@protonmail.com"
+
+      self.discord_server = "https://discord.gg/teamplayz"
+
+      self.replit = "https://replit.com/@Ryuzakiig"
+
+      self.discord = "- Ryuzakii#1225"
+
+      self.dc_server2 = "https://discord.gg/aeros"
