@@ -18,3 +18,4 @@
       self.discord = "- Ryuzakii#1225"
 
       self.dc_server2 = "https://discord.gg/aeros"
+```
