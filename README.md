@@ -1,8 +1,9 @@
-from GitHub.RyuzakiCodeZ import Readme
+      
+       from GitHub.RyuzakiCodeZ import Readme
 
-class RyuzakiCodeZ(Readme):
+      class RyuzakiCodeZ(Readme):
 
-    "https://gitHub.com/RyuzakiCodeZ/RyuzakiCodeZ/README.md"
+     "https://gitHub.com/RyuzakiCodeZ/RyuzakiCodeZ/README.md"
 
     def __init__(self):
 
