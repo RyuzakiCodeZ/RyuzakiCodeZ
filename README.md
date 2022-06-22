@@ -1,21 +1,12 @@
-      
-       from GitHub.RyuzakiCodeZ import Readme
+```py
+from GitHub.RyuzakiPlayZ import Readme
 
-      class RyuzakiCodeZ(Readme):
-
-     "https://gitHub.com/RyuzakiCodeZ/RyuzakiCodeZ/README.md"
-
+class RyuzakiPlayZ(Readme):
+    "https://GitHub.com/RyuzakiPlayZ/RyuzakiPlayZ/README.md"
     def __init__(self):
-
-      self.name = "RyuzakiCodeZ"
-
-      self.mail = "ryuzakiixd@protonmail.com"
-
-      self.discord_server = "https://discord.gg/teamplayz"
-
-      self.replit = "https://replit.com/@Ryuzakiig"
-
-      self.discord = "- Ryuzakii#1225"
-
-      self.dc_server2 = "https://discord.gg/aeros"
-```
+      self.name = "RyuzakiPlayZ"
+      self.work = "Python Programmer"
+      self.mail = "imkira.ryu@proton.me"
+      self.server = "https://discord.gg/cyanic"
+      self.discord = "- Ryuzakii#1337"
+      self.age = "15-17"
